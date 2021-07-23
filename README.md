@@ -1,4 +1,4 @@
-# arweave-rc
+# polyweave-rc
 
 A global, permanent racing game living on arweave.
 
