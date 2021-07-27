@@ -1,6 +1,6 @@
 # Polyweave RC
 
-## Tools
+## Technology
 
 - Unity
 - Chainsafe SDK: https://chainsafe.github.io/game-docs/
