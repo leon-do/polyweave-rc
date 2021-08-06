@@ -3,9 +3,9 @@
 ## Technology
 
 - Unity
-- Chainsafe SDK: https://chainsafe.github.io/game-docs/
 - Polygon: https://mumbai.polygonscan.com/address/0x881af60689904af9c5d01c40c43f4e307d895e51
 - Arweave: https://3ucrxgrvoyhqtxauektbubjepnwgk77aefszidlw3or7bajhlooa.arweave.net/3QUbmjV2DwncFCKmGgUke2xlf-AhZZQNdtuj8IEnW5w/
+- Chainsafe SDK: https://chainsafe.github.io/game-docs/
 
 ## Demo
 
